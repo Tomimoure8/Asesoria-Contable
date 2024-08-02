@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.nav-lista li {
+    margin: 0 15px;
+    list-style-type: none;
+}
+
+.nav-lista a {
+    color: white;
+    text-decoration: none;
+}
+
+.heroe {
+    background-image: url(./img/_61aafba0-8ee8-433f-921b-b7ee01811440.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.servicios-class {
+    padding: 20px;
+    text-align: center;
+}
+
+.servicio-lista {
+    list-style-type: none;
+    padding: 0;
+}
+
+.servicio-lista li {
+    margin: 10px 0;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
